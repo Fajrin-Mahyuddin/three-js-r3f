@@ -37,7 +37,7 @@ const App = () => {
 			<OrbitControls makeDefault />
 			{/* <orbitControls args={[camera, gl.domElement]} /> */}
 			<Physics>
-				<Debug />
+				{/* <Debug /> */}
 				<Ball />
 				<Level />
 			</Physics>

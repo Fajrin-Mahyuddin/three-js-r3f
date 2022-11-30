@@ -39,7 +39,7 @@ export default function Portfolio() {
 						position={[0, 1.56, - 1.4]}
 						rotation-x={- 0.256}
 					>
-						<iframe src="https://bruno-simon.com/html/" />
+						<iframe src="https://zodiac.com.sg" />
 					</Html>
 				</primitive>
 

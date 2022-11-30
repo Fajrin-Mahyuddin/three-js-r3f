@@ -5,7 +5,8 @@
   "author": "fajrin <fajrin.telkom12@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "react-scripts start"
+    "dev": "react-scripts start",
+    "build": "react-scripts build"
   },
   "dependencies": {
     "@react-three/drei": "^9.45.1",
@@ -15,7 +16,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "^5.0.1",
-    "three": "^0.146.0"
+    "three": "^0.146.0",
+    "r3f-perf": "^6.5.0"
   },
   "browserslist": {
     "production": [
